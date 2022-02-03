@@ -1,1 +1,3 @@
-# Golang-Testing
+# GolangTesting
+
+Endpoint - /wordoccurance (POST API)
